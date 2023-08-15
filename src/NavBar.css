@@ -1,0 +1,8 @@
+.NavBar{
+    position:fixed;
+    left:0px;
+    bottom:60px;
+    text-align: center;
+    width:100%;
+    background-color: bisque;
+}
